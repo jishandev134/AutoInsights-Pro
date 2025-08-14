@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-orange?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social)](https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/jishandev134/AutoInsights-Pro?style=social)](https://github.com/jishandev134/AutoInsights-Pro/stargazers)
 
 A **Streamlit web application** that transforms raw Excel/CSV datasets into **clean, well-structured reports** with:
 ✅ Data Cleaning & Formatting
