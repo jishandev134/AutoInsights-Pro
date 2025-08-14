@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+openpyxl
+kaleido
+python-dotenv
+Pillow
+matplotlib
